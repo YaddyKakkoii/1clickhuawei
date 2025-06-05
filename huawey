@@ -1,0 +1,11 @@
+
+config huawey 'settings'
+	option router_ip '192.168.8.1'
+	option username 'admin'
+	option password 'admin'
+	option telegram_token '7515727179:AAERXtmR2LZLaOESZIXcKn1b6SeixDiYiww'
+	option chat_id '5821340334'
+	option message_thread_id '0'
+	option lan_off_duration '30'
+	option modem_path 'python3 /usr/bin/huawei.py'
+
